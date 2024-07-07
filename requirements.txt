@@ -2,3 +2,4 @@ streamlit
 plotly
 seaborn
 matplotlib
+pip install openpyxl
