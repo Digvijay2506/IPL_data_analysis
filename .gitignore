@@ -1,2 +1,7 @@
-venv
-__pycache__
+# Ignore the AppData directory
+AppData/
+
+# Ignore other unnecessary files
+*.log
+*.tmp
+
